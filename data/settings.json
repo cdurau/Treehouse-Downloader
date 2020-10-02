@@ -1,0 +1,7 @@
+{
+  "email": "treehouse-login",
+  "password": "treehouse-password",
+  "webdriver": "chromedriver",
+  "download_folder": "PATH/TO/YOUR/DOWNLOAD/FOLDER/",
+  "EXTERNAL_DL": "  --external-downloader aria2c --external-downloader-args '-j1 -x16 -s16 -k1M' "
+}

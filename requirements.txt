@@ -1,0 +1,6 @@
+pathvalidate==0.29.0
+selenium==v3.141.0
+beautifulsoup4==v4.7.1
+requests
+cssutils
+lxml==4.4.1

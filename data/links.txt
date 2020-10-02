@@ -1,0 +1,8 @@
+# Example Links
+
+# Web Development
+https://teamtreehouse.com/tracks/front-end-web-development
+https://teamtreehouse.com/library/introduction-to-html-and-css
+
+# Python
+https://teamtreehouse.com/tracks/beginning-python
