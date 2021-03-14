@@ -117,7 +117,7 @@ class Instruction:
         self.get_meta()
 
         # Create and go to Instruction folder
-        create_folder(self.root + '/Instructions')
+        create_folder(str(self.root) + '/Instructions')
         self.dir = create_folder(self.title)
 
         txt_filename = self.write_instruction()
